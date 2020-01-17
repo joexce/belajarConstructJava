@@ -1,0 +1,11 @@
+{
+  "name": "Supercar",
+  "types": [
+    {
+     "type": "road"
+    },
+    {
+      "type": "air"
+    }
+    ]
+}
