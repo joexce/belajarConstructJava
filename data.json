@@ -1,11 +1,16 @@
 {
-  "name": "Supercar",
-  "types": [
-    {
-     "type": "road"
-    },
-    {
-      "type": "air"
-    }
+    "factoryName": "Mitsuisisi",
+    "countryAvailable": [
+        "indonesia",
+        "arab",
+        "japan"
+    ],
+    "cityName": [
+        {
+            "city": "Jakarta"
+        },
+        {
+            "city": "Tokyo"
+        }
     ]
 }
